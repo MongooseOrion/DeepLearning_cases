@@ -37,3 +37,11 @@
   5. 模型评估：评估性能，否则重新训练
 
 ## 数据集
+可用数据集在此列举几个：
+  * [scikit-learn](https://scikit-learn.org/stable/datasets.html)
+    > 数据量较小；方便学习
+  * [kaggle](https://www.kaggle.com/datasets)
+    > 大数据竞赛平台；数据量巨大
+  * [UCI](https://archive.ics.uci.edu/ml/index.php)
+    > 涵盖生活、科学、经济等领域；数据量几十万
+
